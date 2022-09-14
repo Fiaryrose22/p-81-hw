@@ -1,1 +1,2 @@
-# p-81-hw
+# spectagram-stage-1
+project solution for c81
